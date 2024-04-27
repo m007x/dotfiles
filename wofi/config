@@ -1,2 +1,4 @@
 #prompt=
 hide_scroll=true
+dynamic_lines=true
+insensitive=true
